@@ -6,15 +6,6 @@ Hi, I'm John Jacob Pedroso 👋
 
 ---
 
-## 🧠 Summary
-
-I'm a motivated BSIT graduate from Holy Cross of Davao College, passionate about building software that is clean, functional, and user-focused. I specialize in both web and desktop application development, creating solutions that are efficient and practical.
-
-I thrive in fast-paced environments, whether working independently or collaborating with a team. I bring a strong focus on clean code, user experience, and continuous learning. My projects—such as IoT-based systems like *DrainSense* and desktop applications like *Cafe Inizio*—reflect my attention to detail and problem-solving mindset.
-
-Beyond development, I have experience in technical support, quality assurance, and networking. This allows me to contribute across different areas of a team and approach problems from multiple perspectives as a well-rounded IT professional.
-
----
 
 [![](https://komarev.com/ghpvc/?username=JjPedroso&icon=0&color=0)](https://visitcount.itsvg.in)
 
