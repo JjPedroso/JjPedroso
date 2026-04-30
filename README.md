@@ -6,15 +6,6 @@ Hi, I'm John Jacob Pedroso 👋
 
 ---
 
-## ⚡ About Me
-
-- 🎓 BSIT Graduate (2026) from Holy Cross of Davao College  
-- 🌱 Focused on web and desktop application development  
-- 🛠️ Passionate about building real-world systems with clean code and great UX  
-- 🎯 Goal: Deliver scalable, production-ready applications  
-
----
-
 ## 🧠 Summary
 
 I'm a motivated BSIT graduate from Holy Cross of Davao College, passionate about building software that is clean, functional, and user-focused. I specialize in both web and desktop application development, creating solutions that are efficient and practical.
