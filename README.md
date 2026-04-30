@@ -1,6 +1,29 @@
 # 💫 About Me:
- Hi, I'm John Jacob Pedroso 👋<br><br>💻 BSIT Student | Aspiring Full-Stack Developer  <br>🚀 Building real-world web applications and learning by shipping  <br><br>---<br><br>⚡ About Me<br><br>- 🎓 BSIT student at University of Mindanao  <br>- 🌱 Currently focused on **React, deployment, and backend fundamentals**  <br>- 🛠️ Learning by building **portfolio projects and real-world systems**  <br>- 🎯 Goal: Become a **production-ready full-stack developer**
+Hi, I'm John Jacob Pedroso 👋  
 
+💻 BSIT Graduate (2026) | Full-Stack Developer  
+🚀 Building clean, functional, and user-focused software solutions  
+
+---
+
+## ⚡ About Me
+
+- 🎓 BSIT Graduate (2026) from Holy Cross of Davao College  
+- 🌱 Focused on web and desktop application development  
+- 🛠️ Passionate about building real-world systems with clean code and great UX  
+- 🎯 Goal: Deliver scalable, production-ready applications  
+
+---
+
+## 🧠 Summary
+
+I'm a motivated BSIT graduate from Holy Cross of Davao College, passionate about building software that is clean, functional, and user-focused. I specialize in both web and desktop application development, creating solutions that are efficient and practical.
+
+I thrive in fast-paced environments, whether working independently or collaborating with a team. I bring a strong focus on clean code, user experience, and continuous learning. My projects—such as IoT-based systems like *DrainSense* and desktop applications like *Cafe Inizio*—reflect my attention to detail and problem-solving mindset.
+
+Beyond development, I have experience in technical support, quality assurance, and networking. This allows me to contribute across different areas of a team and approach problems from multiple perspectives as a well-rounded IT professional.
+
+---
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/e36BV4Gc) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/jacob.pedroso.9026) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jacob-pedroso-1b1941340/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jacobpedroso7@gmail.com) 
